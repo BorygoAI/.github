@@ -1,12 +1,3 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+BorygoAI to potężna aplikacja do nauki języków. Sztuczna inteligencja dostosowana do Twojego poziomu wygeneruje dla Ciebie unikalne zadania – bez powtarzania w kółko tych samych, nudnych przykładów. Z Borygiem porozmawiasz również na czacie. Wszystko to oceni i zaproponuje możliwe poprawki. Naucz się języka unikając stresu i nudy!
